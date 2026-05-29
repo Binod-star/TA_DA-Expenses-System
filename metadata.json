@@ -1,0 +1,6 @@
+{
+  "name": "Arvicon TA-DA Suite",
+  "description": "Enterprise-grade TA/DA management, claim pipeline simulator, and ready-to-deploy Google Apps Script integration center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
